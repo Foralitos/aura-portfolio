@@ -9,15 +9,15 @@ function Hero() {
         <div className="w-full max-w-6xl mx-auto flex flex-col lg:flex-row items-center">
           <div className="lg:w-1/2 lg:pr-12 mb-8 lg:mb-0">
             <h1 className="text-4xl lg:text-6xl font-bold leading-tight mb-4">
-              TIME TO DISCOVER YOUR
+              IMPULSA TU PRESENCIA EN EL
               <br />
-              <span className="text-7xl lg:text-9xl">DIGITAL FUTURE</span>
+              <span className="text-7xl lg:text-9xl"> MUNDO DIGITAL</span>
             </h1>
             <div className="w-12 h-1 bg-gray-900 mb-6"></div>
             <p className="text-lg mb-8">
-              Finding the perfect digital solution can be a challenge. Our team
-              of creatives and specialists makes web and mobile development
-              easy.
+              Encontrar la solución digital perfecta puede ser un desafío.
+              Nuestro equipo de creativos y especialistas hace que el desarrollo
+              web y móvil sea sencillo.
             </p>
           </div>
           <div className="lg:w-1/2 relative">
@@ -38,7 +38,7 @@ function Hero() {
         <a href="https://www.instagram.com/aura_mexico/">
           <FontAwesomeIcon icon={faInstagram} className="w-8 h-8" />
         </a>
-        <a href="#">
+        <a href="https://github.com/AuraMexico">
           <FontAwesomeIcon icon={faGithub} className="w-8 h-8" />
         </a>
       </footer>

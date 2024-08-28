@@ -27,7 +27,7 @@ function AboutUs() {
         <div className="flex flex-col lg:flex-row">
           <div className="lg:w-1/3 mb-8 lg:mb-0">
             <h2 className="text-5xl font-bold mb-4 tracking-wider leading-tight">
-              WHAT WE DO
+              LO QUE HACEMOS
             </h2>
             <div className="w-16 h-1 bg-white" />
           </div>
@@ -35,18 +35,18 @@ function AboutUs() {
             <div className="space-y-8">
               <OfferItem
                 icon={<AppWindowIcon />}
-                title="MODERN UI/UX DESIGN"
-                description="At Aura, we focus on crafting modern and attractive interfaces that captivate users from the first moment. We combine innovative design with usability, ensuring that every interaction with your digital product is a memorable and effective experience."
+                title="DISEÑO UI/UX MODERNO"
+                description="En Aura, nos enfocamos en crear interfaces modernas y atractivas que cautivan a los usuarios desde el primer momento. Combinamos diseño innovador con usabilidad, asegurando que cada interacción con tu producto digital sea una experiencia memorable y efectiva.."
               />
               <OfferItem
                 icon={<AppWindowIcon />}
-                title="EXPERTS IN APP DEVELOPMENT"
-                description="At Aura, we excel in creating mobile applications that not only function flawlessly but also stand out in the market. Our team transforms ideas into intuitive and powerful apps, designed to deliver a smooth and satisfying user experience."
+                title="EXPERTOS EN DESARROLLO DE APPS"
+                description="En Aura, somos expertos en crear aplicaciones móviles que no solo funcionan a la perfección, sino que también destacan en el mercado. Nuestro equipo transforma ideas en aplicaciones intuitivas y potentes, diseñadas para ofrecer una experiencia de usuario fluida y satisfactoria."
               />
               <OfferItem
                 icon={<AppWindowIcon />}
-                title="MASTERS OF WEB DESIGN"
-                description="We design and develop websites that are not only visually striking but also highly functional. At Aura, we understand that your website is the gateway to your brand, so we ensure every detail reflects your identity and meets the highest quality standards."
+                title="MAESTROS DEL DISEÑO WEB"
+                description="Diseñamos y desarrollamos sitios web que no solo son visualmente impactantes, sino también altamente funcionales. En Aura, entendemos que tu sitio web es la puerta de entrada a tu marca, por lo que nos aseguramos de que cada detalle refleje tu identidad y cumpla con los más altos estándares de calidad."
               />
             </div>
           </div>
