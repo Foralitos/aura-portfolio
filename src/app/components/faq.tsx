@@ -66,10 +66,10 @@ function Faq() {
         <h2 className="text-white text-sm uppercase mb-4 text-center">
           ¿Preguntas?
         </h2>
-        <h3 className="text-4xl font-bold text-center mb-2">
+        <div className="text-3xl  font-bold text-center mb-2">
           <span className="text-white">Preguntas</span>
           <span className="text-gray-500">Frecuentes</span>
-        </h3>
+        </div>
         <p className="text-gray-400 text-center mb-12">
           Las dudas que surgen, las resolvemos.
           <br />

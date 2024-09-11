@@ -31,6 +31,7 @@ function NavBar() {
         }`}
         style={{
           zIndex: 1000,
+          height: menuOpen ? "auto" : "70px", // Ajusta la altura en función del estado del menú
         }}
       >
         <div className="flex items-center justify-between">

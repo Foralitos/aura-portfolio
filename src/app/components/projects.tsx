@@ -7,7 +7,7 @@ function Projects() {
   const projects = [
     {
       id: 1,
-      title: "Planify",
+      title: "Project 1",
       description: "A brief description of the project.",
     },
     {
